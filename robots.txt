@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ahoblail.github.io/sitemap.html.gz
+Sitemap: https://ahoblail.github.io/app/sitemap.html.gz
+Sitemap: https://ahoblail.github.io/assets/sitemap.html.gz
+Sitemap: https://ahoblail.github.io/css/sitemap.html.gz
+Sitemap: https://ahoblail.github.io/includes/sitemap.html.gz
+Sitemap: https://ahoblail.github.io/item/sitemap.html.gz
+Sitemap: https://ahoblail.github.io/src/sitemap.html.gz
